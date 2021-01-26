@@ -1,6 +1,6 @@
-# Inventory Console
+Inventory Console
 
-#The application provides an example code for an shopping inventory management system.
+The application provides an example code for an shopping inventory management system.
 
 The fields include:-
 StockItem, which is the name of the item.
@@ -47,16 +47,16 @@ Fresh Item 1 0
 Fresh Item -2 1
 
 
-#Installation instructions 
+Installation instructions 
 Download onto a local machine from GitHub. Save the file in local file location. Eg \source\repo
 
-#Operating instructions:-
+Operating instructions:-
 Open the application in Microsoft Visual Studio then click on the start button.
 The console will open presenting the test input and output data.
 The Program.cs is the main starting point to the application, calling the TestData.cs, Inventory.cs, Process.cs and PrintOut.cs classes.
 
-#Copyright and licensing information:-
+Copyright and licensing information:-
 Open source
 
-#Author:-
+Author:-
 By Linda Jones 
